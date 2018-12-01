@@ -7,10 +7,8 @@ TO ONE 是自己参加公司 2018 Hackathon 比赛耗费一个月的下班时间
 * 如果你是PC，来点击：http://www.duhonghui.top/toone/web/  
 * 如果你是手机，来扫描下方二维码：
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/0.png)
-#### 技术栈
-TO ONE 采用 LAYABOX 游戏引擎开发，（悄悄的说，数据直接写缓存了，偷懒没有写后端,哈哈哈哈）
-#### 源码
-项目源码请见：https://github.com/Game-Storm/TOONE_LAYA
+* TO ONE 采用 LAYABOX 游戏引擎开发，（悄悄的说，数据直接写缓存了，偷懒没有写后端,哈哈哈哈）
+* 项目源码请见：https://github.com/Game-Storm/TOONE_LAYA
 
 
 ## 起源
