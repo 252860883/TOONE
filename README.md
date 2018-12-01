@@ -5,5 +5,4 @@
 #### 体验 TO ONE
 * 如果你是PC，来点击：http://www.duhonghui.top/toone/web/  
 * 如果你是手机，来扫描下方二维码：
-
-![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/%E4%BA%8C%E7%BB%B4%E7%A0%81.png）
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/0.png)
