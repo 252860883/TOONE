@@ -6,3 +6,7 @@
 * 如果你是PC，来点击：http://www.duhonghui.top/toone/web/  
 * 如果你是手机，来扫描下方二维码：
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/0.png)
+#### 技术栈
+TO ONE 采用 LAYABOX 游戏引擎开发。
+#### 源码
+项目源码请见：https://github.com/Game-Storm/TOONE_LAYA
