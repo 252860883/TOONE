@@ -7,6 +7,6 @@
 * 如果你是手机，来扫描下方二维码：
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/0.png)
 #### 技术栈
-TO ONE 采用 LAYABOX 游戏引擎开发。
+TO ONE 采用 LAYABOX 游戏引擎开发，（悄悄的说，数据直接写缓存了，偷懒没有写后端...）
 #### 源码
 项目源码请见：https://github.com/Game-Storm/TOONE_LAYA
