@@ -29,5 +29,9 @@ TO ONE 是参加公司 2018 Hackathon 比赛耗费一个月的闲暇时间完成
 
 ### 普通关卡
 >每个关卡由当前小数的二进制格式0和1铺满宫格，用户需要通过移动色块将宫格转换成全部变成1即通关。游戏玩法非常简单，色块移动到的位置会进行**01置换**。随着关卡的增大，宫格数量也会随之增加，同时会新增一些难度设定。
+
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/10.png)
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/7.png)
+
+### 1关
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/8.png)
