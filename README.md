@@ -21,3 +21,5 @@ TO ONE 是参加公司 2018 Hackathon 比赛耗费一个月的闲暇时间完成
 于是就激发出了 TO ONE 这个游戏。
 
 ## 故事主线
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/10.png) 
+>游戏由介于0-1之间的小数递增列组成，通过当前关卡即可解锁下一张数字卡牌。
