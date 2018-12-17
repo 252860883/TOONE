@@ -22,6 +22,10 @@ TO ONE 是参加公司 2018 Hackathon 比赛耗费一个月的闲暇时间完成
 
 ## 故事主线
 >游戏由介于0-1之间的小数递增列组成，通过当前关卡即可解锁下一张数字卡牌。
-![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/10.png) 
->每个关卡由当前小数的二进制格式0和1铺满宫格，用户需要通过移动色块将宫格转换成全部变成1即通关。
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/10.png)
 
+>0关 游戏的起始关卡，过场动画形式讲述游戏的由来、玩法、意义。
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/2.png)
+
+>每个关卡由当前小数的二进制格式0和1铺满宫格，用户需要通过移动色块将宫格转换成全部变成1即通关。
+![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/10.png)
