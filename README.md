@@ -36,7 +36,7 @@ TO ONE 是参加公司 2018 Hackathon 比赛耗费一个月的闲暇时间完成
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/7.png)
 
 ### 1关
->通关彩蛋。由游戏引发人生思考，TO ONE 的整个游戏人生其实折射出我们现实世界的真理。同时为系列游戏的概念埋伏笔。
+>通关彩蛋。由游戏引发人生思考，TO ONE 的整个游戏人生其实折射出我们现实世界的真理。**现实世界同样需要经历许多从 0 到 1 的过程，和游戏一样，你需要发动大脑去思考、坚持，努力去克服每一道关卡，不免走错了路需要从头再来。但人生是不是到达了 1 就可以了呢？**
 
 ![image](https://github.com/Game-Storm/TOONE_LAYA/blob/master/github/8.png)
 
